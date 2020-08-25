@@ -11,3 +11,5 @@ I use left hand viewmodel because it is better for my dominant eye.
 ## Resolution
 
 I play at custom resolution - 1440x1080@80HZ -stretched 
+
+![Signature](https://github.com/DMNerd/CSGO_Configs/blob/master/DMNerd.png)
