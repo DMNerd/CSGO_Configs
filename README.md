@@ -6,7 +6,11 @@ These are my personal configs for Counter Strike: Global Offensive. I put them h
 
 I use left hand viewmodel because it is better for my dominant eye. 
 
-![screen](https://i.imgur.com/bw5GrVd.jpg)
+![screen](https://i.imgur.com/n4horFx.png)
+
+## Simple Radar
+
+I started using Simple Radar again
 
 ## Resolution
 
