@@ -14,7 +14,7 @@ I started using Simple Radar again
 
 ## Resolution
 
-I play at custom resolution - 1440x1080@80HZ -stretched 
+I play at custom resolution - 1440x1080@150HZ -stretched 
 
 ![Signature](https://github.com/DMNerd/CSGO_Configs/blob/master/DMNerd.png)
 
